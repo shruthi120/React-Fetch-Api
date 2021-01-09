@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Fetch-Api/static/css/main.8f73604d.chunk.css",
+    "main.js": "/React-Fetch-Api/static/js/main.6700e1f6.chunk.js",
+    "main.js.map": "/React-Fetch-Api/static/js/main.6700e1f6.chunk.js.map",
+    "runtime-main.js": "/React-Fetch-Api/static/js/runtime-main.ab9490a5.js",
+    "runtime-main.js.map": "/React-Fetch-Api/static/js/runtime-main.ab9490a5.js.map",
+    "static/js/2.da343410.chunk.js": "/React-Fetch-Api/static/js/2.da343410.chunk.js",
+    "static/js/2.da343410.chunk.js.map": "/React-Fetch-Api/static/js/2.da343410.chunk.js.map",
+    "static/js/3.acf0327c.chunk.js": "/React-Fetch-Api/static/js/3.acf0327c.chunk.js",
+    "static/js/3.acf0327c.chunk.js.map": "/React-Fetch-Api/static/js/3.acf0327c.chunk.js.map",
+    "index.html": "/React-Fetch-Api/index.html",
+    "static/css/main.8f73604d.chunk.css.map": "/React-Fetch-Api/static/css/main.8f73604d.chunk.css.map",
+    "static/js/2.da343410.chunk.js.LICENSE.txt": "/React-Fetch-Api/static/js/2.da343410.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab9490a5.js",
+    "static/js/2.da343410.chunk.js",
+    "static/css/main.8f73604d.chunk.css",
+    "static/js/main.6700e1f6.chunk.js"
+  ]
+}
